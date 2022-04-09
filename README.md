@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # cypress-demo-framework
 
 <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQF1dg2KtKFdPg/company-logo_200_200/0/1626295436859?e=2159024400&v=beta&t=Ib_T9PXXQxkHRKnj3Oe65EKuR6EAh01IgAA6IGvU0FY" alt="exemplo imagem">
@@ -40,3 +41,6 @@ https://nodejs.org/es/download/
 ## 🚀 Install the project
 
 Install project dependencies with: npm i 
+=======
+# cypress-automation-framework
+>>>>>>> ceace6c751fb1378c90a1cc47ffbc98d049745aa
